@@ -48,7 +48,7 @@ lowerdict = (
 "webapp",
 "big data",
 "visualization",
-"virtual machine"
+"virtual machine",
 "dynamic tessellation",
 "modular",
 "functional",
