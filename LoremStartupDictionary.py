@@ -41,7 +41,25 @@ lowerdict = (
 "quantum computing",
 "cloud",
 "dependency",
-"unit testing"
+"unit testing",
+"multichannel",
+"scraping",
+"data mining",
+"webapp",
+"big data",
+"visualization",
+"virtual machine"
+"dynamic tessellation",
+"modular",
+"functional",
+"augmented reality",
+"quadcopter",
+"flagship",
+"unicorn",
+"crowdsourced",
+"architecture",
+"hosting",
+"refactor"
 )
 upperdict = (
 "Alphabet",
@@ -70,5 +88,14 @@ upperdict = (
 "SaaS",
 "Intel",
 "OS",
-"SHA3"
+"SHA3",
+"A/B Testing",
+"UI",
+"UX",
+"AMOLED",
+"DRM",
+"VRAM",
+"DDR4",
+"Kickstarter",
+"IoT"
 )
